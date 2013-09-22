@@ -1,0 +1,13 @@
+{
+  "parts":[
+    {
+      "name": "clear_authorship_no_prompt",
+      "hooks":{
+        "eejsBlock_scripts":"ep_clear_authorship_no_prompt/index:eejsBlock_scripts"
+      },
+      "client_hooks": {
+        "postAceInit": "ep_clear_authorship_no_prompt/static/js/init"
+      }
+    }
+  ]
+}

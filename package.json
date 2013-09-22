@@ -1,0 +1,17 @@
+{
+  "name": "ep_clear_authorship_no_prompt",
+  "description": "Supresses the clear authorship prompt",
+  "version": "0.0.1",
+  "author": {
+    "name": "John McLear",
+    "email": "john@mclear.co.uk",
+    "url": "http://mclear.co.uk"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnmclear/ep_clear_authorship_no_prompt"
+  },
+  "contributors": [],
+  "_id": "ep_clear_authorship_no_prompt@0.0.1",
+  "_from": "ep_clear_authorship_no_prompt@"
+}
