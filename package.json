@@ -1,7 +1,7 @@
 {
   "name": "ep_clear_authorship_no_prompt",
   "description": "Supresses the clear authorship prompt",
-  "version": "0.0.27",
+  "version": "0.0.28",
   "author": {
     "name": "John McLear",
     "email": "john@mclear.co.uk",
