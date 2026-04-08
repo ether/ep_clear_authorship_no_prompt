@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/johnmclear/ep_clear_authorship_no_prompt"
+    "url": "https://github.com/ether/ep_clear_authorship_no_prompt.git"
   },
   "contributors": [],
   "_from": "ep_clear_authorship_no_prompt@",
